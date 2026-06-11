@@ -1,0 +1,6 @@
+id,name,type,source,owner,last_used,created_date,privileged,risk_score
+svc-001,svc_backup_agent,ServiceAccount,ActiveDirectory,IT Operations,2024-09-15,2019-03-01,true,72
+svc-002,svc_hr_integration,ServiceAccount,ActiveDirectory,HR Systems,2024-10-01,2021-06-10,false,28
+svc-003,github-actions-deploy,APIKey,GitHub,DevOps Platform,2024-10-02,2023-01-20,true,55
+svc-004,aws-lambda-saviynt,IAMRole,AWS,IAM Platform,2024-09-30,2023-07-14,false,33
+svc-005,svc_orphaned_legacy,ServiceAccount,ActiveDirectory,UNKNOWN,2021-02-10,2015-11-03,true,91
